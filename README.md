@@ -1,4 +1,14 @@
-### Hi there 👋
+#### Contacts
+
+Home: [vakhov.com](https://vakhov.com)
+
+Telegram: [@vakhov](https://t.me/vakhov)
+
+Email: [alex.vakhov@gmail.com](mailto:alex.vakhov@gmail.com)
+
+#### Badges
+
+![](https://komarev.com/ghpvc/?username=vakhov)
 
 <!--
 **vakhov/vakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
